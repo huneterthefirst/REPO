@@ -1,44 +1,44 @@
 # Gamblit
-## EnemySpinny
+## Codename: EnemySpinny
 ### Tier: 2
 - EnemySpinny
 - EnemySpinnyAnim
 - EnemySpinnyParticle
 
 # Shadow Child
-## EnemyThinMan
+## Codename: EnemyThinMan
 ### Tier: 2
 - EnemyThinMan
 - EnemyThinManAnim
 - EnemyThinManTentacle
 
 # Scarecrow / Reaper (Miralda)
-## EnemySlowWalker
+## Codename: EnemySlowWalker
 ### Tier: 2
 - EnemySlowWalker
 - EnemySlowWalkerAnim
 
 # Robe
-## EnemyRobe
+## Codename: EnemyRobe
 ### Tier: 2
 - EnemyRobe
 - EnemyRobeAnim
 - EnemyRobePersistent
 
 # Duck Decoy
-## EnemyDuck
+## Codename: EnemyDuck
 ### Tier: 1
 - EnemyDuck
 - EnemyDuckAnim
 
 # Upscream
-## EnemyUpscream
+## Codename: EnemyUpscream
 ### Tier: 2
 - EnemyUpscream
 - EnemyUpscreamAnim
 
 # Heart Hugger
-## EnemyHeartHugger
+## Codename: EnemyHeartHugger
 ### Tier: 2
 - EnemyHeartHugger
 - EnemyHeartHuggerCuteFace
@@ -46,25 +46,25 @@
 - EnemyHeartHuggerGasGuider
 
 # Blind Man (Huntsman)
-## EnemyHunter
+## Codename: EnemyHunter
 ### Tier: 2
 - EnemyHunter
 - EnemyHunterAnim
 - EnemyHunterAlwaysActive
 
 # Dog (New Monster Update)
-## EnemyElsa
+## Codename: EnemyElsa
 ### Tier: 3
 - EnemyElsa
 - EnemyElsaAnim
 
 # Loom
-## EnemyOogly
+## Codename: EnemyOogly
 ### Tier: 3
 - EnemyOogly
 
 # Bang
-## EnemyBang
+## Codename: EnemyBang
 ### Tier: 1
 - EnemyBang
 - EnemyBangAnim
@@ -73,31 +73,31 @@
 - EnemyBangDirector
 
 # Beamer
-## EnemyBeamer
+## Codename: EnemyBeamer
 ### Tier: 1
 - EnemyBeamer
 - EnemyBeamerAnim
 
 # Birthday Boy
-## EnemyBirthdayBoy
+## Codename: EnemyBirthdayBoy
 ### Tier: 1
 - EnemyBirthdayBoy
 
 # Ceiling Eye
-## EnemyCeilingEye
+## Codename: EnemyCeilingEye
 ### Tier: 1
 - EnemyCeilingEye
 - EnemyCeilingEyeAnim
 
 # Floater
-## EnemyFloater
+## Codename: EnemyFloater
 ### Tier: 1
 - EnemyFloater
 - EnemyFloaterAnim
 - EnemyFloaterSphereEffect
 
 # Gnome
-## EnemyGnome
+## Codename: EnemyGnome
 ### Tier: 1
 - EnemyGnome
 - EnemyGnomeAnim
@@ -105,19 +105,19 @@
 - EnemyGnomeStunFly
 
 # Tricycle
-## EnemyTricycle
+## Codename: EnemyTricycle
 ### Tier: 1
 - EnemyTricycle
 - EnemyTricycleVisuals
 
 # Tumbler
-## EnemyTumbler
+## Codename: EnemyTumbler
 ### Tier: 1
 - EnemyTumbler
 - EnemyTumblerAnim
 
 # Tick
-## EnemyTick
+## Codename: EnemyTick
 ### Tier: 1
 - EnemyTick
 - EnemyTickAnim
