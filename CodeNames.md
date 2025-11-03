@@ -52,7 +52,7 @@
 - EnemyHunterAnim
 - EnemyHunterAlwaysActive
 
-# Dog (New Monster Update)
+# Elsa
 ## Codename: EnemyElsa
 ### Tier: 3
 - EnemyElsa
