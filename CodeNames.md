@@ -58,7 +58,7 @@
 - EnemyElsa
 - EnemyElsaAnim
 
-# Loom
+# Oogly
 ## Codename: EnemyOogly
 ### Tier: 3
 - EnemyOogly
@@ -110,7 +110,7 @@
 - EnemyTricycle
 - EnemyTricycleVisuals
 
-# Tumbler
+# Frog-Chef
 ## Codename: EnemyTumbler
 ### Tier: 1
 - EnemyTumbler
@@ -122,3 +122,9 @@
 - EnemyTick
 - EnemyTickAnim
 - EnemyTickHealAura
+
+# Shadow
+## Codename: Shadow
+- EnemyShadow
+- EnemyShadowAnim
+- EnemyShadowScreenVeinEffect
